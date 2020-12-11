@@ -58,6 +58,7 @@
     <Compile Include="zmod_rev_core\scr.builtin\tpactions.py" />
     <Compile Include="zmod_rev_core\scr.builtin\tpdp.py" />
     <Compile Include="zmod_rev_core\scr\barovia_consts.py" />
+    <Compile Include="zmod_rev_core\scr\rev_consts.py" />
     <Compile Include="zmod_rev_core\scr\coe_consts.py">
       <SubType>Code</SubType>
     </Compile>
@@ -99,6 +100,7 @@
     <Compile Include="zmod_rev_core\scr\py06111_sneak.py" />
     <Compile Include="zmod_rev_core\scr\py06122_cormyr_prompter.py" />
     <Compile Include="zmod_rev_core\scr\py06214_doors_autodestroy.py" />
+    <Compile Include="zmod_rev_core\scr\py06704_daemon_castle_main.py" />
     <Compile Include="zmod_rev_core\scr\py06604_daemon_crypt_lv1.py" />
     <Compile Include="zmod_rev_core\scr\py06603_coe_encounters.py" />
     <Compile Include="zmod_rev_core\scr\py06602_daemon_road_to_coe.py" />
