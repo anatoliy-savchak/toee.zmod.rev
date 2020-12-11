@@ -1,0 +1,34 @@
+{10}{As the heavy doors swing open, the faint light from outside reveals a long chamber with risen platforms on either side. A faded painting of Kassen is on the far wall. The room appears to be the site of a gruesome battle, with two bodies piled in the center and a number of skeletons scattered around. An echoing wail can be heard somewhere in the distance, beyond this foul chamber.}{As the heavy doors swing open, the faint light from outside reveals a long chamber with risen platforms on either side. A faded painting of Kassen is on the far wall. The room appears to be the site of a gruesome battle, with two bodies piled in the center and a number of skeletons scattered around. An echoing wail can be heard somewhere in the distance, beyond this foul chamber.}{}{}{}{cs().display_encounter_k01()}
+{19}{Close}{}{1}{}{0}{cs().activate_encounter_k01();npc.destroy()}
+
+{30}{The mournful wailing grows louder with each step toward the door at the end of this musty hallway. There are a host of bones strewn on the floor here, many of which are cracked and broken.}{The mournful wailing grows louder with each step toward the door at the end of this musty hallway. There are a host of bones strewn on the floor here, many of which are cracked and broken.}{}{}{}{cs().display_encounter_k03();}
+{39}{Close}{}{1}{}{0}{cs().activate_encounter_k03();npc.destroy()}
+
+{40}{This small chamber is mostly empty, save for the body of a villager sprawled in the center.}{This small chamber is mostly empty, save for the body of a villager sprawled in the center.}{}{}{}{cs().display_encounter_k04();}
+{49}{Close}{}{1}{}{0}{cs().activate_encounter_k04();npc.destroy()}
+
+{50}{The remains of a small fire smolder in the center of this broad chamber, letting off a plume of oily smoke. Fed by a heap of burning gear, debris, and more than few bones, the fire casts a flickering light across the walls of this room, partially obscured by the veil of smoke.}{The remains of a small fire smolder in the center of this broad chamber, letting off a plume of oily smoke. Fed by a heap of burning gear, debris, and more than few bones, the fire casts a flickering light across the walls of this room, partially obscured by the veil of smoke.}{}{}{}{cs().display_encounter_k05();}
+{59}{Close}{}{1}{}{0}{cs().activate_encounter_k05();npc.destroy()}
+
+{60}{In the center of this room is a large pool of clear water, fed by a fountain on the wall above it. The fountain has a stone statue of a weeping maiden holding the slain body of Kassen, but his head has been broken off and is nowhere to be seen.}{In the center of this room is a large pool of clear water, fed by a fountain on the wall above it. The fountain has a stone statue of a weeping maiden holding the slain body of Kassen, but his head has been broken off and is nowhere to be seen.}{}{}{}{cs().display_encounter_k06();}
+{61}{Continue}{}{1}{}{62}{}
+{62}{A voice booms out from the darkness, saying, "Magic is the key." The voice slowly fades, leaving a dreadful silence.}{A voice booms out from the darkness, saying, "Magic is the key." The voice slowly fades, leaving a dreadful silence.}{}{}{}{}
+{69}{Close}{}{1}{}{0}{npc.destroy()}
+
+{70}{A small stone bench sits in the center of this dusty chamber. On the far wall is a faded mural depicting the hero Kassen defeating the mercenaries at the entrance to this crypt, with his blade piercing the chest of the mercenary leader. These figures stand alone in the center of a scene of carnage, with dead villagers and mercenaries all around them.}{A small stone bench sits in the center of this dusty chamber. On the far wall is a faded mural depicting the hero Kassen defeating the mercenaries at the entrance to this crypt, with his blade piercing the chest of the mercenary leader. These figures stand alone in the center of a scene of carnage, with dead villagers and mercenaries all around them.}{}{}{}{}
+{79}{Close}{}{1}{}{0}{npc.destroy()}
+
+{80}{This long corridor is flanked by a row of human statues, set into alcoves on each side. The statues look like Kassen, and each one holds a longsword out in front of it. The blades of roughly half the statues are wrapped in leather padding.}{This long corridor is flanked by a row of human statues, set into alcoves on each side. The statues look like Kassen, and each one holds a longsword out in front of it. The blades of roughly half the statues are wrapped in leather padding.}{}{}{}{cs().display_encounter_k08();}
+{89}{Close}{}{1}{}{0}{npc.destroy()}
+
+{90}{One half of this lofty chamber has a lowered floor, with stairs on either side to reach the bottom. Standing opposite the door is a tall wooden statue of Kassen grasping a gigantic wooden shield in each hand. One of the shields is inscribed with the word "home," while the other reads "family."}{One half of this lofty chamber has a lowered floor, with stairs on either side to reach the bottom. Standing opposite the door is a tall wooden statue of Kassen grasping a gigantic wooden shield in each hand. One of the shields is inscribed with the word "home," while the other reads "family."}{}{}{}{cs().display_encounter_k09();}
+{99}{Close}{}{1}{}{0}{cs().activate_encounter_k09();npc.destroy()}
+
+{100}{This small chamber has a table on the opposite side of the room. On top of this table are a number of items, each with a small note attached with PC names.}{This small chamber has a table on the opposite side of the room. On top of this table are a number of items, each with a small note attached with PC names.}{}{}{}{cs().display_encounter_k10();}
+{109}{Take items.}{}{1}{}{0}{cs().activate_encounter_k10();npc.destroy()}
+
+{110}{A single pillar in the center of the room supports this wide, domed chamber. The pillar is surrounded by a pit, but a stone bridge crosses the pit on the south side. Dozens of arrows jut from holes in the pillar, facing every direction.}{A single pillar in the center of the room supports this wide, domed chamber. The pillar is surrounded by a pit, but a stone bridge crosses the pit on the south side. Dozens of arrows jut from holes in the pillar, facing every direction.}{}{}{}{cs().display_encounter_k11();}
+{119}{Close}{}{1}{}{0}{npc.destroy()}
+
+{120}{A continuous carving of mourners runs along the walls here, leading to a staircase on the south side of the room.}{A continuous carving of mourners runs along the walls here, leading to a staircase on the south side of the room.}{}{}{}{cs().display_encounter_k12();}
+{129}{Close}{}{1}{}{0}{cs().activate_encounter_k12();npc.destroy()}
