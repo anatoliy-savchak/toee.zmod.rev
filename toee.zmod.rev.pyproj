@@ -58,6 +58,7 @@
     <Compile Include="zmod_rev_core\scr.builtin\tpactions.py" />
     <Compile Include="zmod_rev_core\scr.builtin\tpdp.py" />
     <Compile Include="zmod_rev_core\scr\barovia_consts.py" />
+    <Compile Include="zmod_rev_core\scr\py06714_daemon_castle_dungeon.py" />
     <Compile Include="zmod_rev_core\scr\rev_consts.py" />
     <Compile Include="zmod_rev_core\scr\coe_consts.py">
       <SubType>Code</SubType>
