@@ -2,12 +2,14 @@
 {2}{Begin adventuring Castle Ravenloft.}{Begin adventuring Castle Ravenloft.}{1}{}{0}{game.fade_and_teleport( 0, 0, 0, 5129, 505, 480 )}
 {3}{Begin adventuring Castle Ravenloft 2.}{Begin adventuring Castle Ravenloft 2.}{1}{}{0}{game.fade_and_teleport( 0, 0, 0, 5129, 457, 453 )}
 {4}{Begin adventuring Castle Ravenloft Weeping.}{Begin adventuring Castle Ravenloft Weeping.}{1}{}{0}{game.fade_and_teleport( 0, 0, 0, 5131, 479, 496 )}
+{5}{Begin adventuring Castle Ravenloft Dungeon 1.}{Begin adventuring Castle Ravenloft Dungeon 1.}{1}{}{0}{game.fade_and_teleport( 0, 0, 0, 5134, 482, 479 )}
 {11}{Return to shopmap.}{}{1}{}{0}{}
 
 {20}{The portal is open...}{The portal is open...}{}{}{}{}
 {21}{Begin adventuring Castle Ravenloft.}{Begin adventuring Castle Ravenloft.}{1}{}{0}{game.fade_and_teleport( 0, 0, 0, 5129, 505, 480 )}
 {22}{Begin adventuring Castle Ravenloft 2.}{Begin adventuring Castle Ravenloft 2.}{1}{}{0}{game.fade_and_teleport( 0, 0, 0, 5129, 457, 453 )}
 {24}{Begin adventuring Castle Ravenloft Weeping.}{Begin adventuring Castle Ravenloft Weeping.}{1}{}{0}{game.fade_and_teleport( 0, 0, 0, 5131, 479, 496 )}
+{26}{Begin adventuring Castle Ravenloft Dungeon 1.}{Begin adventuring Castle Ravenloft Dungeon 1.}{1}{}{0}{game.fade_and_teleport( 0, 0, 0, 5134, 482, 479 )}
 {30}{Return to shopmap.}{}{1}{}{0}{}
 
 {4000}{There's little to be gained by attacking the game portal.}{There's little to be gained by attacking the game portal.}{}{}{}{}
