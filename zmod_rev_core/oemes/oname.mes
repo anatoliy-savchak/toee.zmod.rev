@@ -11,19 +11,49 @@
 
 // Portal ranges from 800 - 1199
 {800}{Portal}
-{821}{Crypt1 Door 1-2}
-{822}{Crypt1 Door 2}
-{823}{Crypt1 Door 2-3}
-{824}{Crypt1 Door 2-4}
-{825}{Crypt1 Door 2-11}
-{826}{Crypt1 Door 4-5}
-{827}{Crypt1 Door 1-6}
-{828}{Crypt1 Door 6-7}
-{829}{Crypt1 Door 7-11}
-{830}{Crypt1 Door 6-8}
-{831}{Crypt1 Door 8-9}
-{832}{Crypt1 Door 9-10}
-{833}{Crypt1 Door 11-12}
+{901}{Crypt01}
+{902}{Crypt02}
+{903}{Crypt03}
+{904}{Crypt04}
+{905}{Crypt05}
+{906}{Crypt06}
+{907}{Crypt07}
+{908}{Crypt08}
+{909}{Crypt09}
+
+{910}{Crypt10}
+{911}{Crypt11}
+{912}{Crypt12}
+{913}{Crypt13}
+{914}{Crypt14}
+{915}{Crypt15}
+{916}{Crypt16}
+{917}{Crypt17}
+{918}{Crypt18}
+{919}{Crypt19}
+
+{920}{Crypt20}
+{921}{Crypt21}
+{922}{Crypt22}
+{923}{Crypt23}
+{924}{Crypt24}
+{925}{Crypt25}
+{926}{Crypt26}
+{927}{Crypt27}
+{928}{Crypt28}
+{929}{Crypt29}
+
+{930}{Crypt30}
+{931}{Crypt31}
+{932}{Crypt32}
+{933}{Crypt33}
+{934}{Crypt34}
+{935}{Crypt35}
+{936}{Crypt36}
+{937}{Crypt37}
+{938}{Crypt38}
+{939}{Crypt39}
+{940}{Crypt40}
 
 // Container ranges from 1200 - 1599
 {1200}{Container}
