@@ -270,6 +270,7 @@
     <Content Include="zmod_rev_core\mes\skill_ui.mes" />
     <Content Include="zmod_rev_core\oemes\oname.mes" />
     <Content Include="zmod_rev_core\rules\jumppoint.tab" />
+    <Content Include="zmod_rev_core\rules\MapLimits.mes" />
     <Content Include="zmod_rev_core\rules\partsys\ball_of_fire.tab" />
     <Content Include="zmod_rev_core\rules\partsys\darts.tab" />
     <Content Include="zmod_rev_core\rules\partsys\tppartsys.tab" />
